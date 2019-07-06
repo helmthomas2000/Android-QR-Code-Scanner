@@ -155,7 +155,7 @@ Now that the app is processing the URL from the QRCode, we need to load it into 
 1. Create an Empty Layout called WebViewerActivity
 2. Add a WebView View to the activity
 3. In the code behind create a variable to hold the webview
-4. put the webview from the layout using `findViewByID` in that variable
+4. Put the webview into the java file using `findViewByID` and assign it to that variable
 5. Call this function to load the URL into the webview `webView.loadURL(getIntent().getStringExtra("URL"));`
 6. Your app may need enable javascript with this 
 ```java
