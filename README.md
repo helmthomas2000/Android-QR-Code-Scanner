@@ -174,5 +174,5 @@ webview.setWebViewClient(new WebViewClient() {
 ```
 8. Make sure you call the `loadURL` function after all of the optionals
 
-# Congradulations
+# Congratulations
 You have completed the QR Code Scanner App. You can now go test it out on your device!
