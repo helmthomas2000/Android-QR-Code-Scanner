@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910011423477",
+    "firebase_url": "https://qrcodescanner-ac3db.firebaseio.com",
+    "project_id": "qrcodescanner-ac3db",
+    "storage_bucket": "qrcodescanner-ac3db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910011423477:android:8344222c7cb01a10",
+        "android_client_info": {
+          "package_name": "ca.dmit2504.thelm2.qrcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910011423477-2g1uuaus7gnthvgtd5d4kr4qlglbdori.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eX5wuf5yWXGtqQBQcYls2EFrdjDlcWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910011423477-2g1uuaus7gnthvgtd5d4kr4qlglbdori.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
